@@ -70,11 +70,23 @@ tags:
 
 [Explanation]
 
+## Vulnerability
+
+<!-- Root cause: bug class, CWE if known, and why the mistake was possible. -->
+
+## Mitigation
+
+<!-- The specific fix for the root cause (not generic advice), and how a defender could detect this. -->
+
 ## Flag
 
 ```text
 picoCTF{REDACTED}
 ```
+
+## In My Own Words
+
+<!-- 3-5 sentences, written without looking at sources: what was wrong, why the exploit worked, and how you would explain it to a classmate. If you can't write this, you don't understand it yet. -->
 
 ## Lessons Learned
 

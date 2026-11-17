@@ -78,6 +78,10 @@ sha256sum evidence
 picoCTF{REDACTED}
 ```
 
+## In My Own Words
+
+<!-- 3-5 sentences, written without looking at sources: what was wrong, why the exploit worked, and how you would explain it to a classmate. If you can't write this, you don't understand it yet. -->
+
 ## Lessons Learned
 
 - [A lesson tied to the recovered artifact or forensic technique]
