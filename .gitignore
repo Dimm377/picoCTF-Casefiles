@@ -3,3 +3,7 @@
 .obsidian/cache
 .trash/
 .DS_Store
+
+# Public repo: writeups + their images only
+Templates/
+.obsidian/
